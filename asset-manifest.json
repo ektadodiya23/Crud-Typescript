@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crud-Typescript/static/css/main.d2b0d5fd.css",
+    "main.js": "/Crud-Typescript/static/js/main.d9dfd01b.js",
+    "static/js/787.e809a35a.chunk.js": "/Crud-Typescript/static/js/787.e809a35a.chunk.js",
+    "index.html": "/Crud-Typescript/index.html",
+    "main.d2b0d5fd.css.map": "/Crud-Typescript/static/css/main.d2b0d5fd.css.map",
+    "main.d9dfd01b.js.map": "/Crud-Typescript/static/js/main.d9dfd01b.js.map",
+    "787.e809a35a.chunk.js.map": "/Crud-Typescript/static/js/787.e809a35a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b0d5fd.css",
+    "static/js/main.d9dfd01b.js"
+  ]
+}
