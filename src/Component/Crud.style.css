@@ -1,0 +1,29 @@
+.table_content{
+    width: 33%;
+    margin-left: 30%;
+}
+.table_style{
+    width: 33%;
+    margin-left: 30%;
+}
+.input_btn {
+    background-color: #258ebecc;
+    border: none;
+    padding: 5px 13px 5px 13px;
+    border-radius: 3px;
+    color: white;
+}
+.icon_btn{
+    border: none;
+    margin-top: -4%;
+    margin-left: 90%;
+    
+}
+.table_part{
+    width: 40%;
+        position: absolute;
+        justify-content: center;
+        top: 23%;
+        left: 31%;
+        right: 0;
+}
